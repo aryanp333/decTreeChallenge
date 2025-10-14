@@ -1,6 +1,7 @@
 ---
 title: "Decision Tree Challenge"
 subtitle: "Feature Importance and Categorical Variable Encoding"
+author: "Aryan Pagdaloo"
 format:
   html: default
   pdf: default
